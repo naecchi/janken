@@ -1,0 +1,13 @@
+
+
+こちらの内容を
+<button onClick="document.getElementById('jibun').value = ''">終了</button>
+
+↓
+
+こちらに変更すればMainRoom.jspに飛ばせれる。。
+<button type="button" onClick="location.href='MainRoom.jsp'">終了</button>
+
+
+
+
